@@ -1,5 +1,5 @@
 #include "AppDelegate.h"
-#include "HelloWorldScene.h"
+#include "TitleScene.h"
 
 USING_NS_CC;
 
@@ -31,7 +31,8 @@ bool AppDelegate::applicationDidFinishLaunching() {
         director->setOpenGLView(glview);
     }
 
-    director->getOpenGLView()->setDesignResolutionSize(960, 640, ResolutionPolicy::SHOW_ALL);
+    //画面サイズを固定する
+    director->getOpenGLView()->setDesignResolutionSize(1136, 640, ResolutionPolicy::SHOW_ALL);
 
     // turn on display FPS
     director->setDisplayStats(true);
@@ -39,10 +40,18 @@ bool AppDelegate::applicationDidFinishLaunching() {
     // set FPS. the default value is 1.0/60 if you don't call this
     director->setAnimationInterval(1.0 / 60);
 
+    //Resource配下のフォルダをSearchPathに追加する
+    FileUtils::getInstance()->addSearchPath("card");
+    FileUtils::getInstance()->addSearchPath("fonts");
+    FileUtils::getInstance()->addSearchPath("game");
+    FileUtils::getInstance()->addSearchPath("sound");
+    FileUtils::getInstance()->addSearchPath("text");
+    FileUtils::getInstance()->addSearchPath("title");
     FileUtils::getInstance()->addSearchPath("res");
 
     // create a scene. it's an autorelease object
-    auto scene = HelloWorld::createScene();
+    //auto scene = HelloWorld::createScene();
+    Scene *scene { TitleScene::createScene() };
 
     // run
     director->runWithScene(scene);
