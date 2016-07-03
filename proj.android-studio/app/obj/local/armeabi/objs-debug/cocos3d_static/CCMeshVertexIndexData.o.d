@@ -1,11 +1,11 @@
 obj/local/armeabi/objs-debug/cocos3d_static/CCMeshVertexIndexData.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/CCMeshVertexIndexData.cpp \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iostream \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iostream \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../3d/CCBundle3DData.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCRef.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCPlatformMacros.h \
@@ -13,28 +13,28 @@ obj/local/armeabi/objs-debug/cocos3d_static/CCMeshVertexIndexData.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCPlatformConfig.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCPlatformDefine.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/android/CCPlatformDefine-android.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/ccTypes.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/CCGeometry.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/math.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/math.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/ccMacros.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCConsole.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/select.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/select.h \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCStdC.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/android/CCStdC-android.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdlib.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/alloca.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/strings.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/memory.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdlib.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/alloca.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/strings.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/memory.h \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/ccRandom.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/CCMath.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/Vec2.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/CCMathBase.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/Vec2.inl \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/Vec2.h \
@@ -51,14 +51,14 @@ obj/local/armeabi/objs-debug/cocos3d_static/CCMeshVertexIndexData.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/Quaternion.inl \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCGL.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/android/CCGL-android.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../3d/CCAABB.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCVector.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../renderer/CCGLProgram.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../3d/CCObjLoader.h \
@@ -75,8 +75,8 @@ obj/local/armeabi/objs-debug/cocos3d_static/CCMeshVertexIndexData.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/document.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/reader.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/rapidjson.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/inttypes.h \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/inttypes.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/allocators.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/encodings.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/internal/meta.h \
@@ -90,16 +90,16 @@ obj/local/armeabi/objs-debug/cocos3d_static/CCMeshVertexIndexData.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/error/error.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/error/../rapidjson.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/internal/strfunc.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEventCustom.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEvent.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEventListenerCustom.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEventListener.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEventDispatcher.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/set \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/set \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEventType.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCDirector.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/stack \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/stack \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../2d/CCScene.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../2d/CCNode.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCProtocols.h \
@@ -116,17 +116,17 @@ obj/local/armeabi/objs-debug/cocos3d_static/CCMeshVertexIndexData.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCGLView.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../renderer/ccGLStateCache.h
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iostream:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iostream:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../3d/CCBundle3DData.h:
 
@@ -142,49 +142,49 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCPlatform
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/android/CCPlatformDefine-android.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/ccTypes.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/CCGeometry.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/math.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/math.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/ccMacros.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCConsole.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/select.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/select.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCStdC.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/android/CCStdC-android.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdlib.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdlib.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/alloca.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/alloca.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/strings.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/strings.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/memory.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/memory.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/ccRandom.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/CCMath.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/Vec2.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../math/CCMathBase.h:
 
@@ -218,13 +218,13 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCGL.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/android/CCGL-android.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../3d/CCAABB.h:
 
@@ -232,7 +232,7 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCVector.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../renderer/CCGLProgram.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h:
 
@@ -266,9 +266,9 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/reader
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/rapidjson.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/inttypes.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/inttypes.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/allocators.h:
 
@@ -296,7 +296,7 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/error/
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/json/internal/strfunc.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEventCustom.h:
 
@@ -308,13 +308,13 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEventListene
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEventDispatcher.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/set:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/set:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCEventType.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/CCDirector.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/stack:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/stack:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../2d/CCScene.h:
 

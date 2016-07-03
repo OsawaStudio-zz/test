@@ -37,6 +37,27 @@ bool TitleScene::init()
     logoSprite->setPosition(Vec2(568.0f, 400.0f));
     this->addChild(logoSprite);
 
+    //スタートボタンを追加
+    ui::Button *startButton { ui::Button::create("title_start.png") };
+    startButton->setPosition(Vec2(568.0f, 130.0f));
+    this->addChild(startButton);
+    startButton->addTouchEventListener(CC_CALLBACK_2(TitleScene::touchEvent, this));
 
     return true;
+}
+
+//ボタンのタッチイベント
+void TitleScene::touchEvent(Ref *pSender, cocos2d::ui::Widget::TouchEventType type)
+{
+    switch(type)
+    {
+        case ui::Widget::TouchEventType::BEGAN:
+        {
+            CCLOG("ボタンが押されました");
+            break;
+        }
+
+        default:
+        break;
+    }
 }

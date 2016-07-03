@@ -1,21 +1,21 @@
 obj/local/armeabi/objs-debug/cocos2dx_internal_static/base/ObjectFactory.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ObjectFactory.cpp \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/functional \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/functional \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ObjectFactory.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCRef.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCPlatformMacros.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ccConfig.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCPlatformConfig.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCPlatformDefine.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/functional:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/functional:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ObjectFactory.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCRef.h:
 
@@ -29,4 +29,4 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCPlatformDefi
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h:

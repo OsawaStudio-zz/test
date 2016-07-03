@@ -1,38 +1,38 @@
 obj/local/armeabi/objs-debug/cocostudio_static/ActionTimeline/CCActionTimelineCache.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/ActionTimeline/CCActionTimelineCache.cpp \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/ActionTimeline/CCActionTimelineCache.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCMap.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ccMacros.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCConsole.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/select.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/select.h \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCRef.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCPlatformMacros.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ccConfig.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCPlatformConfig.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCPlatformDefine.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCStdC.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCStdC-android.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/math.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdlib.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/alloca.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/strings.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/memory.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/math.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdlib.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/alloca.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/strings.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/memory.h \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ccRandom.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/document.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/reader.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/rapidjson.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/inttypes.h \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/inttypes.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/allocators.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/encodings.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/internal/meta.h \
@@ -46,16 +46,16 @@ obj/local/armeabi/objs-debug/cocostudio_static/ActionTimeline/CCActionTimelineCa
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/error/error.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/error/../rapidjson.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/internal/strfunc.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocosStudioExport.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/ActionTimeline/CCTimelineMacro.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./cocos2d.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ccConfig.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCAsyncTaskPool.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCDirector.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/stack \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/stack \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCVector.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./2d/CCScene.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./2d/CCNode.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCProtocols.h \
@@ -79,10 +79,10 @@ obj/local/armeabi/objs-debug/cocostudio_static/ActionTimeline/CCActionTimelineCa
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./math/Quaternion.inl \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCGL.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCGL-android.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./renderer/CCTexture2D.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCScriptSupport.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCCommon.h \
@@ -90,17 +90,17 @@ obj/local/armeabi/objs-debug/cocostudio_static/ActionTimeline/CCActionTimelineCa
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCEventTouch.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCEvent.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCEventKeyboard.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./math/CCAffineTransform.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./2d/CCComponentContainer.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./2d/CCComponent.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCGLView.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCScheduler.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/set \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/set \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/uthash.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/queue \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/future \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/queue \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/future \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCAutoreleasePool.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCConfiguration.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCValue.h \
@@ -139,8 +139,8 @@ obj/local/armeabi/objs-debug/cocostudio_static/ActionTimeline/CCActionTimelineCa
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ZipUtils.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCFileUtils-android.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCFileUtils.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/jni.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/asset_manager.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/jni.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/asset_manager.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/base64.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ccMacros.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ccTypes.h \
@@ -361,7 +361,7 @@ obj/local/armeabi/objs-debug/cocostudio_static/ActionTimeline/CCActionTimelineCa
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./deprecated/CCDictionary.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./deprecated/CCArray.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./deprecated/CCString.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./deprecated/CCDouble.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./deprecated/CCFloat.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./deprecated/CCInteger.h \
@@ -378,25 +378,25 @@ obj/local/armeabi/objs-debug/cocostudio_static/ActionTimeline/CCActionTimelineCa
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./2d/CCSpriteFrameCache.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CSParseBinary_generated.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../flatbuffers/flatbuffers.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstddef \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstddef \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/tinyxml2/tinyxml2.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/climits \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdio \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdarg \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/climits \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdio \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdarg \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../flatbuffers/util.h \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream \
- C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iomanip \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/stat.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/stat.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/endian.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/endian.h \
- C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/machine/endian.h \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream \
+ C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iomanip \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/stat.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/stat.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/endian.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/endian.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/machine/endian.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/FlatBuffersSerialize.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/extensions/./ExtensionMacros.h
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/ActionTimeline/CCActionTimelineCache.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCMap.h:
 
@@ -404,15 +404,15 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ccMacros.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCConsole.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/select.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/select.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCRef.h:
 
@@ -426,27 +426,27 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCPlatformDefi
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/log.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCStdC.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCStdC-android.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/math.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/math.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdlib.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdlib.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/alloca.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/alloca.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/strings.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/strings.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/memory.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/memory.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/ccRandom.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h:
 
@@ -456,9 +456,9 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/re
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/rapidjson.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/inttypes.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/inttypes.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/allocators.h:
 
@@ -486,7 +486,7 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/er
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../json/internal/strfunc.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iterator:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocosStudioExport.h:
 
@@ -500,11 +500,11 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCAsyncTaskPool.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCDirector.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/stack:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/stack:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCVector.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./2d/CCScene.h:
 
@@ -552,13 +552,13 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCGL.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCGL-android.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2platform.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/KHR/khrplatform.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/GLES2/gl2ext.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./renderer/CCTexture2D.h:
 
@@ -574,7 +574,7 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCEvent.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCEventKeyboard.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./math/CCAffineTransform.h:
 
@@ -586,15 +586,15 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCGLView.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCScheduler.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/set:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/set:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/uthash.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/queue:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/queue:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/future:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/future:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/CCAutoreleasePool.h:
 
@@ -672,9 +672,9 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/android/CCFile
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./platform/CCFileUtils.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/jni.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/jni.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/asset_manager.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/asset_manager.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./base/base64.h:
 
@@ -1116,7 +1116,7 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./deprecated/CCArray.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./deprecated/CCString.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./deprecated/CCDouble.h:
 
@@ -1150,31 +1150,31 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../flatbuffers/flatbuffers.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstddef:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstddef:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/./../external/tinyxml2/tinyxml2.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/climits:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/climits:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdio:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdio:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdarg:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdarg:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/external/flatbuffers/../flatbuffers/util.h:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream:
 
-C:/Davelop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iomanip:
+C:/Develop/android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/iomanip:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/stat.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/stat.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/stat.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/stat.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/endian.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/endian.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/endian.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/endian.h:
 
-C:/Davelop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/machine/endian.h:
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/machine/endian.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/editor-support/cocostudio/../cocostudio/FlatBuffersSerialize.h:
 
