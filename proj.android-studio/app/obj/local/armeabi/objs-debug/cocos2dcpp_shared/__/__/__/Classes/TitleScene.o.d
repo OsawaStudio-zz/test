@@ -1,5 +1,22 @@
 obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/__/Classes/TitleScene.o: \
  jni/../../../Classes/TitleScene.cpp jni/../../../Classes/TitleScene.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdio.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/cdefs.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/cdefs_elf.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/api-level.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/types.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdint.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/_types.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/machine/_types.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/_wchar_limits.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/posix_types.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/stddef.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/compiler.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/asm/posix_types.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/asm/types.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/types.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/machine/kernel.h \
+ C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/sysmacros.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../cocos2d.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../base/ccConfig.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../platform/CCPlatformConfig.h \
@@ -381,9 +398,46 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/__/Classes/TitleScene.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../ui/UIScale9Sprite.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../ui/UIEditBox/UIEditBox.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../ui/UILayoutComponent.h \
- C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../editor-support/cocostudio/CocosStudioExtension.h
+ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../editor-support/cocostudio/CocosStudioExtension.h \
+ jni/../../../Classes/GameScene.h jni/../../../Classes/Deck.h \
+ jni/../../../Classes/Common.h jni/../../../Classes/Card.h \
+ jni/../../../Classes/Hands.h
 
 jni/../../../Classes/TitleScene.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdio.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/cdefs.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/cdefs_elf.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/android/api-level.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/types.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/stdint.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/_types.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/machine/_types.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/_wchar_limits.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/posix_types.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/stddef.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/compiler.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/asm/posix_types.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/asm/types.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/linux/types.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/machine/kernel.h:
+
+C:/Develop/android/android-ndk-r10e/platforms/android-17/arch-arm/usr/include/sys/sysmacros.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../cocos2d.h:
 
@@ -1148,3 +1202,13 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../ui/UIEditBox/UIEdit
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../ui/UILayoutComponent.h:
 
 C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../editor-support/cocostudio/CocosStudioExtension.h:
+
+jni/../../../Classes/GameScene.h:
+
+jni/../../../Classes/Deck.h:
+
+jni/../../../Classes/Common.h:
+
+jni/../../../Classes/Card.h:
+
+jni/../../../Classes/Hands.h:

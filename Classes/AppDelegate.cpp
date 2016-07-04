@@ -39,8 +39,8 @@ bool AppDelegate::applicationDidFinishLaunching() {
 
     // set FPS. the default value is 1.0/60 if you don't call this
     director->setAnimationInterval(1.0 / 60);
-
-    //Resource配下のフォルダをSearchPathに追加する
+    
+    //Resouece配下のフォルダをSearchPathに追加する
     FileUtils::getInstance()->addSearchPath("card");
     FileUtils::getInstance()->addSearchPath("fonts");
     FileUtils::getInstance()->addSearchPath("game");
@@ -50,7 +50,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
     FileUtils::getInstance()->addSearchPath("res");
 
     // create a scene. it's an autorelease object
-    //auto scene = HelloWorld::createScene();
+//    auto scene = HelloWorld::createScene();
     Scene *scene { TitleScene::createScene() };
 
     // run
