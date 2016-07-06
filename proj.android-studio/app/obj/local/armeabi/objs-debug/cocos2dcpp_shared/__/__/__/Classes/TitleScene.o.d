@@ -401,7 +401,9 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/__/Classes/TitleScene.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../editor-support/cocostudio/CocosStudioExtension.h \
  jni/../../../Classes/GameScene.h jni/../../../Classes/Deck.h \
  jni/../../../Classes/Common.h jni/../../../Classes/Card.h \
- jni/../../../Classes/Hands.h
+ jni/../../../Classes/Hands.h \
+ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../audio/include/AudioEngine.h \
+ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../audio/include/Export.h
 
 jni/../../../Classes/TitleScene.h:
 
@@ -1212,3 +1214,7 @@ jni/../../../Classes/Common.h:
 jni/../../../Classes/Card.h:
 
 jni/../../../Classes/Hands.h:
+
+C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../audio/include/AudioEngine.h:
+
+C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../audio/include/Export.h:

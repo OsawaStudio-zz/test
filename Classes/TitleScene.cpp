@@ -8,34 +8,39 @@
 
 #include "TitleScene.h"
 #include "GameScene.h"
+#include "audio/include/AudioEngine.h"
 
 USING_NS_CC;
 
 Scene *TitleScene::createScene()
 {
+    //シーンオブジェクトを生成
     Scene *scene { Scene::create() };
     
+    //レイヤーオブジェクトを生成
     Layer *layer { TitleScene::create() };
     
+    //レイヤーオブジェクトをシーンに配置
+
     scene->addChild(layer);
     
     return scene;
 }
-
 bool TitleScene::init()
 {
+    //初期化処理に失敗したらfalseを返す
     if(!Layer::init())
     {
         return false;
     }
     
-    //画面サイズ
+    //画面サイズを取得
     Size visibleSize { Director::getInstance()->getVisibleSize() };
     
-    //背景
-    Sprite *bgsprite { Sprite::create("title_bg.png") };
-    bgsprite->setPosition(visibleSize / 2);
-    this->addChild(bgsprite);
+    //背景画像の表示
+    Sprite *bgsprite { Sprite::create("title_bg.png") };        //スプライトの生成
+    bgsprite->setPosition(visibleSize / 2);                     //スプライトの表示位置を設定
+    this->addChild(bgsprite);                                   //スプライトを画面に配置
     
     //ロゴ
     Sprite *logosprite { Sprite::create("title_logo.png") };
@@ -49,6 +54,9 @@ bool TitleScene::init()
     
     startButton->addTouchEventListener(CC_CALLBACK_2(TitleScene::touchEvent, this));
     
+    //BGMを鳴らす
+    cocos2d::experimental::AudioEngine::play2d("title.wav", true);
+    
     return true;
 }
 
@@ -59,9 +67,15 @@ void TitleScene::touchEvent(Ref *ref, ui::Widget::TouchEventType type)
     {
         case ui::Widget::TouchEventType::BEGAN:
         {
-            Scene *gameScene { GameScene::CreateScene() };
-            TransitionFade *fade = TransitionFade::create(1.0f, gameScene);
-            Director::getInstance()->replaceScene(fade);
+            //音楽を止める
+            cocos2d::experimental::AudioEngine::stopAll();
+            
+            //SEを鳴らす
+            cocos2d::experimental::AudioEngine::play2d("se_coin.wav", false);
+            
+            Scene *gameScene { GameScene::CreateScene() };                      //シーンオブジェクトを生成
+            TransitionFade *fade = TransitionFade::create(1.0f, gameScene);     //フェード処理
+            Director::getInstance()->replaceScene(fade);                        //シーンを置き換える
             break;
         }
             
@@ -69,15 +83,3 @@ void TitleScene::touchEvent(Ref *ref, ui::Widget::TouchEventType type)
             break;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-

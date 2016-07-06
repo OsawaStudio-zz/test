@@ -38,8 +38,12 @@ private:
     
     void dealAction();                      //DEAL時のアクション
     
-    void cardAction(Sprite *sprite, GameStatus nextStatus, bool isLast);     //カードのアクションを実行する
+    void cardAction(Sprite *sprite, GameStatus nextStatus, bool isLast, bool isBet);     //カードのアクションを実行する
     
+    void cardTurn(GameStatus nextStatus, bool isBet);                       //カードをめくる
+    void turnAction(Sprite *sprite, GameStatus nextStatus, bool isLast);    //表にめくるクション
+    
+    Vector<Sprite *> getTurnCards(bool isBet);      //めくるカードを取得する
     
     CREATE_FUNC(GameScene);
     

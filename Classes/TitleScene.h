@@ -18,7 +18,7 @@ class TitleScene : public cocos2d::Layer
 public:
     static cocos2d::Scene *createScene();
     virtual bool init();        //初期化処理
-    CREATE_FUNC(TitleScene);
+    CREATE_FUNC(TitleScene);    //クリエイト関数
     
     //ボタンのタッチイベント
     void touchEvent(Ref *pSender, cocos2d::ui::Widget::TouchEventType type);

@@ -3,43 +3,50 @@
 
 USING_NS_CC;
 
-AppDelegate::AppDelegate() {
+//コンストラクタ
+AppDelegate::AppDelegate()
+{}
 
-}
-
+//デストラクタ
 AppDelegate::~AppDelegate() 
-{
-}
+{}
 
-//if you want a different context,just modify the value of glContextAttrs
-//it will takes effect on all platforms
+//OpneGLのコンテキストを初期化
 void AppDelegate::initGLContextAttrs()
 {
-    //set OpenGL context attributions,now can only set six attributions:
-    //red,green,blue,alpha,depth,stencil
+    //初期化 : {RED, GREEN, BLUE, ALPHA, DEPTH, STENCIL}
     GLContextAttrs glContextAttrs = {8, 8, 8, 8, 24, 8};
 
+    //設定
     GLView::setGLContextAttrs(glContextAttrs);
 }
 
-bool AppDelegate::applicationDidFinishLaunching() {
-    // initialize director
-    auto director = Director::getInstance();
-    auto glview = director->getOpenGLView();
-    if(!glview) {
+//Directorクラスとシーンの初期化
+bool AppDelegate::applicationDidFinishLaunching()
+{
+    auto director = Director::getInstance();        //Directorクラスの初期化
+    auto glview = director->getOpenGLView();        //OpenGLViewの機能を取得
+    
+    //glviewがNULLではない場合
+    if(!glview)
+    {
+        //ウィンドウの名前と画面サイズを設定 : ("WindowName", Rect(x, y, width, height))
         glview = GLViewImpl::createWithRect("HelloCpp", Rect(0, 0, 960, 640));
+        
+        //OpenGLViewを設定
         director->setOpenGLView(glview);
     }
 
-    //画面サイズを固定する
+    //ウィンドウの解像度を設定
     director->getOpenGLView()->setDesignResolutionSize(1136, 640, ResolutionPolicy::SHOW_ALL);
 
-    // turn on display FPS
+    //ウィンドウにFPSを表示 true : false
     director->setDisplayStats(true);
 
-    // set FPS. the default value is 1.0/60 if you don't call this
+    //FPSを設定。デフォルトは[1.0 / 60]
     director->setAnimationInterval(1.0 / 60);
     
+    //絶対パスが指定されていない場合、Resourceフォルダがデフォルト
     //Resouece配下のフォルダをSearchPathに追加する
     FileUtils::getInstance()->addSearchPath("card");
     FileUtils::getInstance()->addSearchPath("fonts");
@@ -49,28 +56,31 @@ bool AppDelegate::applicationDidFinishLaunching() {
     FileUtils::getInstance()->addSearchPath("title");
     FileUtils::getInstance()->addSearchPath("res");
 
-    // create a scene. it's an autorelease object
-//    auto scene = HelloWorld::createScene();
+    //シーンを描画
     Scene *scene { TitleScene::createScene() };
 
-    // run
+    //メインループ開始
     director->runWithScene(scene);
 
     return true;
 }
 
-// This function will be called when the app is inactive. When comes a phone call,it's be invoked too
-void AppDelegate::applicationDidEnterBackground() {
+//アプリケーションがバックグラウンドで実行状態になった際に呼ばれる処理
+void AppDelegate::applicationDidEnterBackground()
+{
+    //アニメーションを停止
     Director::getInstance()->stopAnimation();
 
-    // if you use SimpleAudioEngine, it must be pause
-    // SimpleAudioEngine::getInstance()->pauseBackgroundMusic();
+    //SimpleAudioEngineを使用している場合, 停止するには以下を記述すること
+    //SimpleAudioEngine::getInstance()->pauseBackgroundMusic();
 }
 
-// this function will be called when the app is active again
-void AppDelegate::applicationWillEnterForeground() {
+//アプリケーションがフォアグラウンドで実行状態になった際に呼ばれる処理
+void AppDelegate::applicationWillEnterForeground()
+{
+    //アニメーションを再開
     Director::getInstance()->startAnimation();
 
-    // if you use SimpleAudioEngine, it must resume here
-    // SimpleAudioEngine::getInstance()->resumeBackgroundMusic();
+    //SimpleAudioEngineを使用している場合,再開するには以下を記述すること
+    //SimpleAudioEngine::getInstance()->resumeBackgroundMusic();
 }

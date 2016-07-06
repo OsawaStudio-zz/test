@@ -420,7 +420,9 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/__/__/__/Classes/GameScene.o: \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../deprecated/CCSet.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../deprecated/CCString.h \
  C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../deprecated/CCDeprecated.h \
- jni/../../../Classes/Hands.h jni/../../../Classes/TitleScene.h
+ jni/../../../Classes/Hands.h jni/../../../Classes/TitleScene.h \
+ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../audio/include/AudioEngine.h \
+ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../audio/include/Export.h
 
 jni/../../../Classes/GameScene.h:
 
@@ -1269,3 +1271,7 @@ C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../deprecated/CCDeprec
 jni/../../../Classes/Hands.h:
 
 jni/../../../Classes/TitleScene.h:
+
+C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../audio/include/AudioEngine.h:
+
+C:/cocos2d-x/test/proj.android-studio/../cocos2d/cocos/3d/../audio/include/Export.h:

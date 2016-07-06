@@ -12,9 +12,9 @@
 //create関数
 Card *Card::create(Suit suit, int number)
 {
-    Card *p = new Card();
-    if(p && p->init(suit, number)) p->autorelease();
-    else CC_SAFE_DELETE(p);
+    Card *p = new Card();                               //インスタンスを生成
+    if(p && p->init(suit, number)) p->autorelease();    //初期化に成功したらautorelease()を実行
+    else CC_SAFE_DELETE(p);                             //安全にDELETEする
     
     return p;
 }
@@ -76,24 +76,3 @@ std::string Card::getFileName() const
 
     return str;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
